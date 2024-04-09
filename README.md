@@ -1,4 +1,4 @@
-![logo](https://github.com/Fazal-khan11/fazal-khan11/gitbanner.png)
+![logo](https://github.com/fazal-khan11/fazal-khan11/gitbanner.png)
 <marquee><h1 align="center">Hi 👋, I'm Fazal Moheyy U Din</h1></marquee>
 <p align="center">
 <a href="https://github.com/fazal-khan11"><img src="https://readme-typing-svg.herokuapp.com?lines=PHP+WordPress+Developer;WordPress+Backend+Engineer;PHP+Developer;Front+End+Devloper&center=true&width=500&height=50"></a>
