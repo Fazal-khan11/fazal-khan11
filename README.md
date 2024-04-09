@@ -7,20 +7,20 @@
 <h3 align="center">A passionate Computer Science Engineer from Pakistan</h3>
 
 
-<a href='https://github.com/RazaKhan9639'>
+<a href='https://github.com/Fazal-khan11'>
 <img align='right' src='https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif' widht=250 height=250  alt='RazaKhan9639/Programming-Gifs'></a>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=razakhan9639&label=Profile%20views&color=0e75b6&style=flat" alt="razakhan9639" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fazal-khan11&label=Profile%20views&color=0e75b6&style=flat" alt="fazal-khan11" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **PHP WordPress Core Development**
 
 - 👯 I’m looking to collaborate on [Hacktoberfest](https://hacktoberfest.com/)
 
-- 💬 Ask me about **React , JavaScript, Python**
+- 💬 Ask me about **PHP , JavaScript, WordPress**
 - 📄 Know about my experiences [https://drive.google.com/file/d/17TeZ87YMLbNVrJtIFTAOml9fo6tzf86v/view?usp=sharing](https://drive.google.com/file/d/17TeZ87YMLbNVrJtIFTAOml9fo6tzf86v/view?usp=sharing)
 
-- 📫 How to reach me **raza.khan4336@gmail.com**
+- 📫 How to reach me **fazal.khankakar009@gmail.com**
 
 - ⚡ Fun fact **I think I am funny For a certain Level.**
 
