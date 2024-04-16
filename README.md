@@ -8,7 +8,7 @@
 
 
 <a href='https://github.com/Fazal-khan11'>
-<img align='right' src='https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif' widht=250 height=250  alt='RazaKhan9639/Programming-Gifs'></a>
+<img align='right' src='https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif' widht=250 height=250  alt='Fazal-khan11/Programming-Gifs'></a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazal-khan11&label=Profile%20views&color=0e75b6&style=flat" alt="fazal-khan11" /> </p>
@@ -30,7 +30,7 @@
 <a href="https://linkedin.com/in/razakhankakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="razakhankakar" height="30" width="40" /></a>
 <a href="https://fb.com/razakhan48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="razakhan48" height="30" width="40" /></a>
 <a href="https://instagram.com/raza.khan39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raza.khan39" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/razakhan9639" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="razakhan9639" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Fazal-khan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Fazal-khan11" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">♟♟Languages and Tools:</h3>
@@ -57,11 +57,11 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Raza Mohayyuddin GitHub Stats](https://github-readme-stats.vercel.app/api?username=RazaKhan9639&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Raza Mohayyuddin GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fazal-khan11&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RazaKhan9639&count_private=true&theme=algolia&border_radius=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=Fazal-khan11&count_private=true&theme=algolia&border_radius=20)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RazaKhan9639&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fazal-khan11&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
 
@@ -79,12 +79,12 @@
 ## 🐍Github Magic Game🐍
 
 <p align="center">
-  <img src="https://github.com/RazaKhan9639/RazaKhan9639/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/Fazal-khan11/Fazal-khan11/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <br>
 
 <p align="center"> 
   Views<br>
-  <img src="https://profile-counter.glitch.me/RazaKhan9639/count.svg" />
+  <img src="https://profile-counter.glitch.me/Fazal-khan11/count.svg" />
 </p>
 
