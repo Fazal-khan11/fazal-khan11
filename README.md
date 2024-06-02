@@ -41,7 +41,7 @@
 <br>
 
 
-<table style="width:100%;">
+<table style="width:100%; table-layout: fixed;">
   <tr>
     <td align="center" style="width:20%;">
       <a href="https://www.python.org/">
