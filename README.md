@@ -39,7 +39,72 @@
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div>
 <br>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.python.org/">
+        <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" alt="JavaScript"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
+        <img src="https://img.shields.io/badge/-HTML5-000?&logo=HTML5" alt="HTML5"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6" alt="CSS3"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nodejs.org/">
+        <img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js" alt="Node.js"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com/">
+        <img src="https://img.shields.io/badge/-Git-000?&logo=git" alt="Git"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.docker.com/">
+        <img src="https://img.shields.io/badge/-Docker-000?&logo=docker" alt="Docker"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.postgresql.org/">
+        <img src="https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql" alt="PostgreSQL"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://reactjs.org/">
+        <img src="https://img.shields.io/badge/-React-000?&logo=react" alt="React"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linux.org/">
+        <img src="https://img.shields.io/badge/-Linux-000?&logo=linux" alt="Linux"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://kubernetes.io/">
+        <img src="https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes" alt="Kubernetes"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://aws.amazon.com/">
+        <img src="https://img.shields.io/badge/-AWS-000?&logo=amazon-aws" alt="AWS"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 [![@raza4336's Holopin board](https://holopin.me/raza4336)](https://holopin.io/@raza4336)
 
