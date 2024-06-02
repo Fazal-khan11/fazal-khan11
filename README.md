@@ -39,68 +39,86 @@
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div>
 <br>
+
 <table>
   <tr>
     <td align="center" width="150">
       <a href="https://www.python.org/">
-        <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python" width="120" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" alt="JavaScript" width="120" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
-        <img src="https://img.shields.io/badge/-HTML5-000?&logo=HTML5" alt="HTML5" width="120" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6" alt="CSS3" width="120" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://nodejs.org/">
-        <img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js" alt="Node.js" width="120" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://git-scm.com/">
-        <img src="https://img.shields.io/badge/-Git-000?&logo=git" alt="Git" width="120" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="150">
+      <a href="https://git-scm.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+      </a>
+    </td>
+    <td align="center" width="150">
       <a href="https://www.docker.com/">
-        <img src="https://img.shields.io/badge/-Docker-000?&logo=docker" alt="Docker" width="120" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://www.postgresql.org/">
-        <img src="https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql" alt="PostgreSQL" width="120" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://reactjs.org/">
-        <img src="https://img.shields.io/badge/-React-000?&logo=react" alt="React" width="120" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://www.linux.org/">
-        <img src="https://img.shields.io/badge/-Linux-000?&logo=linux" alt="Linux" width="120" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="150">
       <a href="https://kubernetes.io/">
-        <img src="https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes" alt="Kubernetes" width="120" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="60" height="60"/>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://aws.amazon.com/">
-        <img src="https://img.shields.io/badge/-AWS-000?&logo=amazon-aws" alt="AWS" width="120" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="60" height="60"/>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://www.docker.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://www.postgresql.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
+      </a>
+    </td>
+    <td align="center" width="150">
+      <a href="https://reactjs.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
       </a>
     </td>
   </tr>
@@ -108,7 +126,6 @@
 [![@raza4336's Holopin board](https://holopin.me/raza4336)](https://holopin.io/@raza4336)
 
 
-	
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
