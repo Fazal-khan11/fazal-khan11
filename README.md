@@ -41,83 +41,83 @@
 <br>
 
 
-<table width="100%">
+<table style="width:100%;">
   <tr>
-    <td align="center" width="20%">
+    <td align="center" style="width:20%;">
       <a href="https://www.python.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" style="width:20%;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" style="width:20%;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" style="width:20%;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" style="width:20%;">
       <a href="https://nodejs.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%">
+    <td align="center" style="width:20%;">
       <a href="https://git-scm.com/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" style="width:20%;">
       <a href="https://www.docker.com/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" style="width:20%;">
       <a href="https://www.postgresql.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" style="width:20%;">
       <a href="https://reactjs.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" style="width:20%;">
       <a href="https://www.linux.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center" width="20%">
+    <td align="center" style="width:20%;">
       <a href="https://kubernetes.io/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="60" height="60"/>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" style="width:20%;">
       <a href="https://aws.amazon.com/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="60" height="60"/>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" style="width:20%;">
       <a href="https://www.docker.com/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" style="width:20%;">
       <a href="https://www.postgresql.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" style="width:20%;">
       <a href="https://reactjs.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
       </a>
