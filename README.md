@@ -43,69 +43,68 @@
   <tr>
     <td align="center" width="150">
       <a href="https://www.python.org/">
-        <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python" width="100" height="100"/>
+        <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python" width="120" height="40"/>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" alt="JavaScript" width="100" height="100"/>
+        <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" alt="JavaScript" width="120" height="40"/>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
-        <img src="https://img.shields.io/badge/-HTML5-000?&logo=HTML5" alt="HTML5" width="100" height="100"/>
+        <img src="https://img.shields.io/badge/-HTML5-000?&logo=HTML5" alt="HTML5" width="120" height="40"/>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6" alt="CSS3" width="100" height="100"/>
+        <img src="https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6" alt="CSS3" width="120" height="40"/>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://nodejs.org/">
-        <img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js" alt="Node.js" width="100" height="100"/>
+        <img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js" alt="Node.js" width="120" height="40"/>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://git-scm.com/">
-        <img src="https://img.shields.io/badge/-Git-000?&logo=git" alt="Git" width="100" height="100"/>
+        <img src="https://img.shields.io/badge/-Git-000?&logo=git" alt="Git" width="120" height="40"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="150">
       <a href="https://www.docker.com/">
-        <img src="https://img.shields.io/badge/-Docker-000?&logo=docker" alt="Docker" width="100" height="100"/>
+        <img src="https://img.shields.io/badge/-Docker-000?&logo=docker" alt="Docker" width="120" height="40"/>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://www.postgresql.org/">
-        <img src="https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql" alt="PostgreSQL" width="100" height="100"/>
+        <img src="https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql" alt="PostgreSQL" width="120" height="40"/>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://reactjs.org/">
-        <img src="https://img.shields.io/badge/-React-000?&logo=react" alt="React" width="100" height="100"/>
+        <img src="https://img.shields.io/badge/-React-000?&logo=react" alt="React" width="120" height="40"/>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://www.linux.org/">
-        <img src="https://img.shields.io/badge/-Linux-000?&logo=linux" alt="Linux" width="100" height="100"/>
+        <img src="https://img.shields.io/badge/-Linux-000?&logo=linux" alt="Linux" width="120" height="40"/>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://kubernetes.io/">
-        <img src="https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes" alt="Kubernetes" width="100" height="100"/>
+        <img src="https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes" alt="Kubernetes" width="120" height="40"/>
       </a>
     </td>
     <td align="center" width="150">
       <a href="https://aws.amazon.com/">
-        <img src="https://img.shields.io/badge/-AWS-000?&logo=amazon-aws" alt="AWS" width="100" height="100"/>
+        <img src="https://img.shields.io/badge/-AWS-000?&logo=amazon-aws" alt="AWS" width="120" height="40"/>
       </a>
     </td>
   </tr>
 </table>
-
 [![@raza4336's Holopin board](https://holopin.me/raza4336)](https://holopin.io/@raza4336)
 
 
